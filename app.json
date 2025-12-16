@@ -3,7 +3,7 @@
   "description": "A sample app that installs pgvector for in-dyno PG in Heroku CI",
   "buildpacks": [
     {
-      "url": "heroku/ruby"
+      "url": "heroku/python"
     }
   ],
   "environments": {
